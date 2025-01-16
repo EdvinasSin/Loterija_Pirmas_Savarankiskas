@@ -60,8 +60,7 @@ public class Main {
 
 
     static int generavimas() {
-        return (int) (Math.random() * 900000 + 100000); // Random number between 100000 and 999999
-    }
+        return (int) (Math.random() * 900000 + 100000); 
 
 
     static void rezultatas(int kiek, int number) {
